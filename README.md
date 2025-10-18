@@ -19,12 +19,12 @@ public class EmailNotificationService : INotificationService
 }
 ```
 
-**Why it works:** Each service class (Email, SMS, Push) is responsible for only one type of notification. If we need to modify how email notifications work, we only need to change the `EmailNotificationService` class, without affecting other notification types.
+ Each service class (Email, SMS, Push) is responsible for only one type of notification. If we need to modify how email notifications work, we only need to change the `EmailNotificationService` class, without affecting other notification types.
 
 ### 2. Open-Closed Principle (OCP)
 > "Software entities should be open for extension, but closed for modification."
 
-Our notification system demonstrates this principle through the `INotificationService` interface:
+This notification system demonstrates this principle through the `INotificationService` interface:
 
 ```csharp
 public interface INotificationService
@@ -33,7 +33,7 @@ public interface INotificationService
 }
 ```
 
-**Why it works:** To add a new notification type (e.g., Slack notifications), we don't need to modify existing code. We simply create a new class that implements `INotificationService`:
+ To add a new notification type (e.g., Slack notifications), we don't need to modify existing code. We simply create a new class that implements `INotificationService`:
 
 ```csharp
 public class SlackNotificationService : INotificationService
@@ -67,7 +67,7 @@ public class NotificationManager
 }
 ```
 
-**Why it works:** The `NotificationManager` class doesn't need to know about specific notification implementations. It works with any class that implements `INotificationService`. This makes the system more flexible and easier to test, as we can easily swap different notification services.
+The `NotificationManager` class doesn't need to know about specific notification implementations. It works with any class that implements `INotificationService`. This makes the system more flexible and easier to test, as we can easily swap different notification services.
 
 ## Project Structure
 
@@ -76,21 +76,6 @@ The project implements a notification system where users can:
 2. Choose a notification method (Email, SMS, or Push)
 3. Send the message using the selected method
 
-## Running the Application
-
-1. Build the project:
-```
-dotnet build
-```
-
-2. Run the application:
-```
-dotnet run
-```
-
-3. Follow the prompts to:
-   - Enter your message
-   - Choose a notification method (1 for Email, 2 for SMS, 3 for Push)
 
 ## Benefits of This Implementation
 
@@ -99,10 +84,3 @@ dotnet run
 3. **Flexibility**: The dependency injection pattern makes the system flexible and testable.
 4. **Decoupling**: High-level and low-level modules are decoupled through abstractions.
 
-## Future Improvements
-
-- Add actual email/SMS/push notification implementation
-- Implement logging system
-- Add configuration for different notification services
-- Add unit tests
-- Implement the remaining SOLID principles (Interface Segregation and Liskov Substitution)
