@@ -1,0 +1,14 @@
+C:\Users\kille\Desktop\tmps\lab0\bin\Debug\net9.0\lab0.exe
+C:\Users\kille\Desktop\tmps\lab0\bin\Debug\net9.0\lab0.deps.json
+C:\Users\kille\Desktop\tmps\lab0\bin\Debug\net9.0\lab0.runtimeconfig.json
+C:\Users\kille\Desktop\tmps\lab0\bin\Debug\net9.0\lab0.dll
+C:\Users\kille\Desktop\tmps\lab0\bin\Debug\net9.0\lab0.pdb
+C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\lab0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\lab0.AssemblyInfoInputs.cache
+C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\lab0.AssemblyInfo.cs
+C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\lab0.csproj.CoreCompileInputs.cache
+C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\lab0.dll
+C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\refint\lab0.dll
+C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\lab0.pdb
+C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\lab0.genruntimeconfig.cache
+C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\ref\lab0.dll
