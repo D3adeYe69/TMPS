@@ -4,6 +4,7 @@ namespace GameCharacterSystem.Factory
 {
     public abstract class CharacterFactory
     {
+        protected static readonly Random random = new Random();
         public abstract Character CreateCharacter();
     }
 
@@ -13,9 +14,8 @@ namespace GameCharacterSystem.Factory
         {
             return new Warrior
             {
-                Health = 100,
-                Strength = 15,
-                Level = 1
+                Health = random.Next(90, 120),    // Warriors have high health
+                Strength = random.Next(14, 20)    // Warriors have high strength
             };
         }
     }
@@ -26,9 +26,8 @@ namespace GameCharacterSystem.Factory
         {
             return new Mage
             {
-                Health = 70,
-                Strength = 8,
-                Level = 1
+                Health = random.Next(60, 80),     // Mages have lower health
+                Strength = random.Next(6, 10)     // Mages have lower strength
             };
         }
     }
@@ -39,9 +38,8 @@ namespace GameCharacterSystem.Factory
         {
             return new Archer
             {
-                Health = 85,
-                Strength = 12,
-                Level = 1
+                Health = random.Next(75, 95),     // Archers have medium health
+                Strength = random.Next(10, 15)    // Archers have medium strength
             };
         }
     }
