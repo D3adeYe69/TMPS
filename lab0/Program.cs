@@ -7,23 +7,34 @@ public class EmailNotificationService : INotificationService
 {
     public void Send(string message)
     {
-        Console.WriteLine($"Email sent with message: {message}");
+        Console.WriteLine("[EMAIL]");
+        Console.WriteLine($"Connecting to mail server...");
+        Console.WriteLine($"Sending email: '{message}'");
+        Console.WriteLine("Email sent successfully!\n");
     }
 }
+
 
 public class SmsNotificationService : INotificationService
 {
     public void Send(string message)
     {
-        Console.WriteLine($"SMS sent with message: {message}");
+        Console.WriteLine("[SMS]");
+        Console.WriteLine($"Sending SMS to registered number...");
+        Console.WriteLine($"Message body: {message}");
+        Console.WriteLine("SMS delivered!\n");
     }
 }
+
 
 public class PushNotificationService : INotificationService
 {
     public void Send(string message)
     {
-        Console.WriteLine($"Push notification sent with message: {message}");
+        Console.WriteLine("[PUSH]");
+        Console.WriteLine("Sending push notification via mobile API...");
+        Console.WriteLine($"Notification content: {message}");
+        Console.WriteLine("Push notification sent!\n");
     }
 }
 

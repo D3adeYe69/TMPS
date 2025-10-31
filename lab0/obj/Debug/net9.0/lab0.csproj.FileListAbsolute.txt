@@ -12,3 +12,4 @@ C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\refint\lab0.dll
 C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\lab0.pdb
 C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\lab0.genruntimeconfig.cache
 C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\ref\lab0.dll
+C:\Users\kille\Desktop\tmps\lab0\obj\Debug\net9.0\lab0.sourcelink.json

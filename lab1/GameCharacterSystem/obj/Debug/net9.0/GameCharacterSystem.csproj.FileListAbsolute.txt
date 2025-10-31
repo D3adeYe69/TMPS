@@ -1,0 +1,15 @@
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\bin\Debug\net9.0\GameCharacterSystem.deps.json
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\bin\Debug\net9.0\GameCharacterSystem.dll
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\bin\Debug\net9.0\GameCharacterSystem.pdb
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\obj\Debug\net9.0\GameCharacterSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\obj\Debug\net9.0\GameCharacterSystem.AssemblyInfoInputs.cache
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\obj\Debug\net9.0\GameCharacterSystem.AssemblyInfo.cs
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\obj\Debug\net9.0\GameCharacterSystem.csproj.CoreCompileInputs.cache
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\obj\Debug\net9.0\GameCharacterSystem.sourcelink.json
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\obj\Debug\net9.0\GameCharacterSystem.dll
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\obj\Debug\net9.0\refint\GameCharacterSystem.dll
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\obj\Debug\net9.0\GameCharacterSystem.pdb
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\obj\Debug\net9.0\ref\GameCharacterSystem.dll
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\bin\Debug\net9.0\GameCharacterSystem.exe
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\bin\Debug\net9.0\GameCharacterSystem.runtimeconfig.json
+C:\Users\kille\Desktop\tmps\lab1\GameCharacterSystem\obj\Debug\net9.0\GameCharacterSystem.genruntimeconfig.cache
