@@ -14,8 +14,8 @@ namespace GameCharacterSystem.Factory
         {
             return new Warrior
             {
-                Health = random.Next(90, 120),    // Warriors have high health
-                Strength = random.Next(14, 20)    // Warriors have high strength
+                Health = random.Next(90, 120),    
+                Strength = random.Next(14, 20)    
             };
         }
     }
@@ -26,8 +26,8 @@ namespace GameCharacterSystem.Factory
         {
             return new Mage
             {
-                Health = random.Next(60, 80),     // Mages have lower health
-                Strength = random.Next(6, 10)     // Mages have lower strength
+                Health = random.Next(60, 80),     
+                Strength = random.Next(6, 10)     
             };
         }
     }
