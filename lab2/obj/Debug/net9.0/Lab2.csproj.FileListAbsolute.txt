@@ -1,0 +1,15 @@
+C:\Users\kille\Desktop\tmps\lab2\obj\Debug\net9.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kille\Desktop\tmps\lab2\obj\Debug\net9.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\kille\Desktop\tmps\lab2\obj\Debug\net9.0\Lab2.AssemblyInfo.cs
+C:\Users\kille\Desktop\tmps\lab2\obj\Debug\net9.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\kille\Desktop\tmps\lab2\obj\Debug\net9.0\Lab2.sourcelink.json
+C:\Users\kille\Desktop\tmps\lab2\bin\Debug\net9.0\Lab2.exe
+C:\Users\kille\Desktop\tmps\lab2\bin\Debug\net9.0\Lab2.deps.json
+C:\Users\kille\Desktop\tmps\lab2\bin\Debug\net9.0\Lab2.runtimeconfig.json
+C:\Users\kille\Desktop\tmps\lab2\bin\Debug\net9.0\Lab2.dll
+C:\Users\kille\Desktop\tmps\lab2\bin\Debug\net9.0\Lab2.pdb
+C:\Users\kille\Desktop\tmps\lab2\obj\Debug\net9.0\Lab2.dll
+C:\Users\kille\Desktop\tmps\lab2\obj\Debug\net9.0\refint\Lab2.dll
+C:\Users\kille\Desktop\tmps\lab2\obj\Debug\net9.0\Lab2.pdb
+C:\Users\kille\Desktop\tmps\lab2\obj\Debug\net9.0\Lab2.genruntimeconfig.cache
+C:\Users\kille\Desktop\tmps\lab2\obj\Debug\net9.0\ref\Lab2.dll
